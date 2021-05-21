@@ -66,7 +66,7 @@ const Home = () => {
         <Col span={24} md={{span:12}} >
         
         <FormWrap>
-        <LoginForm>Login Form</LoginForm>
+        <LoginForm>Login Form 2</LoginForm>
       <Form {...layout}  >
         
       <Form.Item
